@@ -21,7 +21,7 @@ daisyUI版本：https://daisyui.o-b.pages.dev/
 
 ## SESS ID获取方法
 
-请见我的个人博客，提供视频教程：https://woodchen.ink/1266.html
+[请见我的个人博客，提供视频教程](https://woodchen.ink/archives/how-to-query-the-balance-of-openai-in-batches-expires-gpt4-whether-to-tie-cards-1ov1aw)
 
 ## 支持自定义反代接口
 在第361行添加自己的接口代码
@@ -33,9 +33,6 @@ daisyUI版本：https://daisyui.o-b.pages.dev/
 ## 怎么部署
 下载index.html直接打开就行，除了背景图片，没有任何外部资源。
 
-## 赞赏码，如果觉得好用，可以请我喝杯咖啡
-
-![IMG_1768.png](https://cdn-img-r2.czl.net/2023/10/13/6528c3c44100a.png)
 
 ## 贡献列表
 
