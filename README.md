@@ -4,7 +4,7 @@
 star,please.
 
 ## 在线访问(使用Cloudflare Pages部署)
-新版本：https://o-b.pages.dev  
+新版本：https://openai-billing-query.edgeone.site/
 daisyUI版本：https://daisyui.o-b.pages.dev/
 
 ## [English](README_EN.md)
