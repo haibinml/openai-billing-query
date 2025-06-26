@@ -3,8 +3,13 @@
 
 star,please.
 
+[![Use EdgeOne Pages to deploy](https://cdnstatic.tencentcs.com/edgeone/pages/deploy.svg)](https://edgeone.ai/pages/new?repository-url=https%3A%2F%2Fgithub.com%2Fwoodchen-ink%2Fopenai-billing-query)
+
+
+
 ## 在线访问(使用Cloudflare Pages部署)
 新版本：https://openai-billing-query.edgeone.site/
+
 daisyUI版本：https://daisyui.o-b.pages.dev/
 
 ## [English](README_EN.md)
@@ -14,10 +19,6 @@ daisyUI版本：https://daisyui.o-b.pages.dev/
 ![screenshot-20231215-003431](https://github.com/woodchen-ink/openai-billing-query/assets/95951386/076cbeff-7b93-45a8-bf36-303a1dc711f0)
 
 ![screenshot-20231215-003509](https://github.com/woodchen-ink/openai-billing-query/assets/95951386/e5da95ec-544e-4541-944e-308cf8ffe0e6)
-
-
-
-
 
 ## SESS ID获取方法
 
@@ -41,6 +42,10 @@ daisyUI版本：https://daisyui.o-b.pages.dev/
 | [qiyue](https://github.com/qiyue-rgb) | 技术协助 |
 | 🙊 | cloudflare反代地址 |
 
+## CDN acceleration and security protection for this project are sponsored by Tencent EdgeOne.
+
+[Best Asian CDN, Edge, and Secure Solutions - Tencent EdgeOne](https://edgeone.ai/?from=github)
+[![image](https://github.com/user-attachments/assets/3375c4c0-8cd4-4675-ab88-220b6bc4f23b)](https://edgeone.ai/?from=github)
 
 ## 广告
 - [CZL Chat](https://chat.czl.net)，稳定商业版AI服务。
